@@ -1,6 +1,6 @@
 START
 Input N          // number of users
-FOR i = 1 TO N
+FOR i = 1 TO N + 1
     Input BloodPressure
     Input SugarLevel
     IF (BloodPressure > 140 OR SugarLevel > 180)
