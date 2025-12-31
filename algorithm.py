@@ -14,3 +14,5 @@ FOR i = 1 TO N + 1
     Display Risk
 END FOR
 STOP
+//Fixed boundary condition issue
+Fixes #1
